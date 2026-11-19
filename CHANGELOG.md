@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.1](https://github.com/xaas-hub/docker-php-legacy/compare/v0.5.0...v0.5.1) (2026-11-19)
+
+### Bug Fixes
+
+* **php-5.6:** backport the PHP 8.2.36 security fixes ([d17f389](https://github.com/xaas-hub/docker-php-legacy/commit/d17f389efd1b4983c64162375f67bf965ccf3f92))
+* **php:** move 7.0-8.1 to Remi Collet's 8.2.36 backports ([c890d73](https://github.com/xaas-hub/docker-php-legacy/commit/c890d73697be6c39e434ee50b393ebbc804940f9))
+
 ## [0.5.0](https://github.com/xaas-hub/docker-php-legacy/compare/v0.4.0...v0.5.0) (2026-11-04)
 
 ### Features
